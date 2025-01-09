@@ -1,2 +1,1 @@
-# goit-js-hw-01
-first homework js
+the third homework on Js. Module 3
